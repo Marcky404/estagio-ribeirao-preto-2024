@@ -1,0 +1,24 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+
+
+a) 1, 3, 5, 7, ___
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+d) 4, 16, 36, 64, ____
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+Questão 3 Resposta:
+
+a) Porque cada número aumenta de 2 em 2, começando de 1. Então, o próximo é 7 + 2 = 9.
+b) Porque cada número é dobrado do anterior. Assim, o próximo é 64 x 2 = 128.
+c) Porque cada número é somado a um número ímpar consecutivo. Acrescentando 11 + 2 ao último número, obtemos 36 + 13 = 49.
+d) Porque cada número é o quadrado de um número par. Como 64 = 8², o próximo número par é 10, e seu quadrado é 10² = 100.
+e) Porque cada número é a soma dos dois números anteriores. Então, o próximo é 8 + 5 = 13.
+f) Porque a sequência é formada por números que começam com a letra d. O próximo número nessa ordem é 200.
